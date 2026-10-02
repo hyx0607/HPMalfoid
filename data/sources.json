@@ -1,0 +1,153 @@
+[
+  {
+    "id": "SRC_OFFICIAL_SPELLS",
+    "url": "https://www.harrypotter.com/features/your-guide-to-the-best-spells-in-harry-potter",
+    "title": "官方魔法概览",
+    "realm": "official-reference",
+    "scope": "基础效果；不用于证明所有拉丁名均在小说出现",
+    "accessed": "2026-10-03",
+    "inspection": "opened",
+    "edition": "网页观察快照；游戏清单发布于2023-02-06"
+  },
+  {
+    "id": "SRC_STONE",
+    "url": "https://www.harrypotter.com/features/guide-to-the-spells-creatures-and-potions-of-philosophers-stone",
+    "title": "魔法石中的魔法与生物",
+    "realm": "official-reference",
+    "scope": "第一年；未命名咒语保持未命名",
+    "accessed": "2026-10-03",
+    "inspection": "opened",
+    "edition": "网页观察快照；游戏清单发布于2023-02-06"
+  },
+  {
+    "id": "SRC_DA",
+    "url": "https://www.harrypotter.com/features/the-most-important-spells-harry-taught-da",
+    "title": "邓布利多军魔法",
+    "realm": "official-reference",
+    "scope": "明确区分文章中的电影段落",
+    "accessed": "2026-10-03",
+    "inspection": "opened",
+    "edition": "网页观察快照；游戏清单发布于2023-02-06"
+  },
+  {
+    "id": "SRC_SCHOOL",
+    "url": "https://www.harrypotter.com/features/everything-a-first-year-should-know-about-hogwarts",
+    "title": "新生学校指南",
+    "realm": "official-reference",
+    "scope": "入学与基础校园知识",
+    "accessed": "2026-10-03",
+    "inspection": "opened",
+    "edition": "网页观察快照；游戏清单发布于2023-02-06"
+  },
+  {
+    "id": "SRC_HAT",
+    "url": "https://www.harrypotter.com/writing-by-jk-rowling/the-sorting-hat",
+    "title": "分院帽",
+    "realm": "author-archive",
+    "scope": "分院依据；本卡问卷不是官方测评",
+    "accessed": "2026-10-03",
+    "inspection": "opened",
+    "edition": "网页观察快照；游戏清单发布于2023-02-06"
+  },
+  {
+    "id": "SRC_LEGACY_FAQ",
+    "url": "https://www.hogwartslegacy.com/en-us/faq",
+    "title": "游戏官方问答",
+    "realm": "game-official",
+    "scope": "游戏独立故事与时代，不用于证明具体咒语效果",
+    "accessed": "2026-10-03",
+    "inspection": "opened",
+    "edition": "网页观察快照；游戏清单发布于2023-02-06"
+  },
+  {
+    "id": "SRC_LEGACY_LIST",
+    "url": "https://www.powerpyx.com/hogwarts-legacy-all-spells-guide/",
+    "title": "游戏菜单魔法清单",
+    "realm": "secondary-reference",
+    "scope": "34项菜单清单；道具/天赋另分类；待游戏原文复核",
+    "accessed": "2026-10-03",
+    "inspection": "opened",
+    "edition": "网页观察快照；游戏清单发布于2023-02-06"
+  },
+  {
+    "id": "SRC_CLEAN",
+    "url": "https://www.harrypotter.com/features/every-spell-we-wish-we-could-use-for-spring-cleaning-season",
+    "title": "清洁魔法",
+    "realm": "official-reference",
+    "accessed": "2026-10-03",
+    "inspection": "opened",
+    "scope": "仅支持短效果与来源身份；具体玩法为本卡改编"
+  },
+  {
+    "id": "SRC_UNDERRATED",
+    "url": "https://www.harrypotter.com/features/what-is-the-most-underrated-spell-in-the-wizarding-world-the-debate",
+    "title": "实用魔法",
+    "realm": "official-reference",
+    "accessed": "2026-10-03",
+    "inspection": "opened",
+    "scope": "仅支持短效果与来源身份；具体玩法为本卡改编"
+  },
+  {
+    "id": "SRC_OBSCURE",
+    "url": "https://www.harrypotter.com/features/a-handy-guide-to-the-lesser-known-spells-in-the-wizarding-world",
+    "title": "少见魔法与改编线",
+    "realm": "official-reference",
+    "accessed": "2026-10-03",
+    "inspection": "opened",
+    "scope": "仅支持短效果与来源身份；具体玩法为本卡改编"
+  },
+  {
+    "id": "SRC_MAGIC_RULES",
+    "url": "https://www.harrypotter.com/features/some-rules-about-magic-its-important-to-bear-in-mind",
+    "title": "魔法边界",
+    "realm": "official-reference",
+    "accessed": "2026-10-03",
+    "inspection": "opened",
+    "scope": "仅支持短效果与来源身份；具体玩法为本卡改编"
+  },
+  {
+    "id": "SRC_WATER",
+    "url": "https://www.harrypotter.com/fact-file/spells/the-water-conjuring-charm",
+    "title": "清水咒官方百科",
+    "realm": "official-reference",
+    "accessed": "2026-10-03",
+    "inspection": "opened",
+    "scope": "水流、NEWT教学与厉火限制"
+  },
+  {
+    "id": "SRC_WORLD_LAW",
+    "url": "https://www.harrypotter.com/features/some-rules-about-magic-its-important-to-bear-in-mind",
+    "title": "魔法规则",
+    "realm": "official-reference",
+    "accessed": "2026-10-03",
+    "inspection": "opened",
+    "scope": "本次世界运行规则；不证明所有小说细节"
+  },
+  {
+    "id": "SRC_WORLD_TECH",
+    "url": "https://www.harrypotter.com/writing-by-jk-rowling/technology",
+    "title": "科技",
+    "realm": "official-reference",
+    "accessed": "2026-10-03",
+    "inspection": "opened",
+    "scope": "本次世界运行规则；不证明所有小说细节"
+  },
+  {
+    "id": "SRC_WORLD_FLOO",
+    "url": "https://www.harrypotter.com/writing-by-jk-rowling/the-floo-network",
+    "title": "飞路网",
+    "realm": "official-reference",
+    "accessed": "2026-10-03",
+    "inspection": "opened",
+    "scope": "本次世界运行规则；不证明所有小说细节"
+  },
+  {
+    "id": "SRC_WORLD_SHIELD",
+    "url": "https://www.harrypotter.com/fact-file/spells/the-shield-charm",
+    "title": "铁甲咒",
+    "realm": "official-reference",
+    "accessed": "2026-10-03",
+    "inspection": "opened",
+    "scope": "本次世界运行规则；不证明所有小说细节"
+  }
+]

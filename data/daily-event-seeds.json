@@ -1,0 +1,95 @@
+[
+  {
+    "id": "SEED_BREAKFAST",
+    "name": "早餐空位",
+    "location_id": "LOC_HALL",
+    "participants": [
+      "CHAR_RON",
+      "CHAR_HERMIONE"
+    ],
+    "precondition_description": "可观察座位与谈话，不用好感分数强迫别人让座。",
+    "development": "选择同桌或独处都有效；只记录真实互动。",
+    "realm": "card-original",
+    "not_before": null,
+    "date_precision": "floating-window",
+    "timing_policy": "由当前时间、课表、位置和经历共同定时；未实例化不得当成已发生事件",
+    "repeat_policy": "同一实例只结算一次",
+    "source_ids": []
+  },
+  {
+    "id": "SEED_BOOK",
+    "name": "书本借阅",
+    "location_id": "LOC_CLASSROOM",
+    "participants": [
+      "CHAR_HERMIONE"
+    ],
+    "precondition_description": "有人确实缺书且对方有可借副本；不得默认玩家贫穷。",
+    "development": "借还承诺影响信任；学习仍需独立练习证据。",
+    "realm": "card-original",
+    "not_before": null,
+    "date_precision": "floating-window",
+    "timing_policy": "由当前时间、课表、位置和经历共同定时；未实例化不得当成已发生事件",
+    "repeat_policy": "同一实例只结算一次",
+    "source_ids": []
+  },
+  {
+    "id": "SEED_RIVAL",
+    "name": "大小姐的第一句评价",
+    "location_id": "LOC_COMMON",
+    "participants": [
+      "CHAR_DRACO"
+    ],
+    "precondition_description": "双方同场且能合理进入此公共区域；非斯莱特林不得瞬移进休息室。",
+    "development": "马尔福挑剔背景或礼仪；可以拒绝拉拢，不默认恋爱或霸凌升级。",
+    "realm": "card-original",
+    "not_before": null,
+    "date_precision": "floating-window",
+    "timing_policy": "由当前时间、课表、位置和经历共同定时；未实例化不得当成已发生事件",
+    "repeat_policy": "同一实例只结算一次",
+    "source_ids": []
+  },
+  {
+    "id": "SEED_NOTICE",
+    "name": "公告栏上的活动",
+    "location_id": "LOC_HALL",
+    "participants": [],
+    "precondition_description": "活动须经校方允许，时间不能与已排课冲突。",
+    "development": "玩家可参加或略过；错过不自动损失关键线索。",
+    "realm": "card-original",
+    "not_before": null,
+    "date_precision": "floating-window",
+    "timing_policy": "由当前时间、课表、位置和经历共同定时；未实例化不得当成已发生事件",
+    "repeat_policy": "同一实例只结算一次",
+    "source_ids": []
+  },
+  {
+    "id": "SEED_PRACTICE",
+    "name": "练习后的挫折",
+    "location_id": "LOC_CLASSROOM",
+    "participants": [
+      "CHAR_NEVILLE"
+    ],
+    "precondition_description": "确实发生练习失败；不要为了情节凭空扣熟练度。",
+    "development": "鼓励、示范或离开影响具体经历；好意不等于立刻学会。",
+    "realm": "card-original",
+    "not_before": null,
+    "date_precision": "floating-window",
+    "timing_policy": "由当前时间、课表、位置和经历共同定时；未实例化不得当成已发生事件",
+    "repeat_policy": "同一实例只结算一次",
+    "source_ids": []
+  },
+  {
+    "id": "SEED_LETTER",
+    "name": "家信被雨水打湿",
+    "location_id": "LOC_COMMON",
+    "participants": [],
+    "precondition_description": "存在已登记家属、来信和合理天气；孤儿背景不自动生成父母。",
+    "development": "修复尝试须会对应咒语，未学可求助；保留原信信息边界。",
+    "realm": "card-original",
+    "not_before": null,
+    "date_precision": "floating-window",
+    "timing_policy": "由当前时间、课表、位置和经历共同定时；未实例化不得当成已发生事件",
+    "repeat_policy": "同一实例只结算一次",
+    "source_ids": []
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "id": "RULE_SECRECY",
+    "name": "保密不是可选礼仪",
+    "source_ids": [
+      "SRC_WORLD_LAW"
+    ],
+    "source_unit_ids": [
+      "SRC_WORLD_LAW_UNIT"
+    ],
+    "canon_summary": "巫师社会要求避免向麻瓜暴露魔法。",
+    "card_adaptation": "出校行动先检查旁观者和环境；暴露会产生调查与后果，不把一次失误机械判成终身监禁。",
+    "continuity": "official-reference",
+    "confidence": "reference-confirmed",
+    "reveal_arc_id": "ARC_01",
+    "knowledge_policy": "阶段仅用于默认介绍；提前知道须有已记录来源，不能泄露未来事件",
+    "source_locator_note": "短引文用于来源定位，不逐句证明整条概括；结合原页面小节核对"
+  },
+  {
+    "id": "RULE_UNDERAGE",
+    "name": "未成年校外施法",
+    "source_ids": [
+      "SRC_WORLD_LAW"
+    ],
+    "source_unit_ids": [
+      "SRC_WORLD_LAW_UNIT"
+    ],
+    "canon_summary": "十七岁以下校外施法受到限制；存在特殊情形。",
+    "card_adaptation": "学习许可、施放能力和法律许可分开。规则层允许判定尝试不等于法律允许；危急自救保留申辩空间。",
+    "continuity": "official-reference",
+    "confidence": "reference-confirmed",
+    "reveal_arc_id": "ARC_01",
+    "knowledge_policy": "阶段仅用于默认介绍；提前知道须有已记录来源，不能泄露未来事件",
+    "source_locator_note": "短引文用于来源定位，不逐句证明整条概括；结合原页面小节核对"
+  },
+  {
+    "id": "RULE_FOOD",
+    "name": "食物不能凭空造出",
+    "source_ids": [
+      "SRC_WORLD_LAW"
+    ],
+    "source_unit_ids": [
+      "SRC_WORLD_LAW_UNIT"
+    ],
+    "canon_summary": "食物不能从无到有直接变出来。",
+    "card_adaptation": "召来食物须存在来源和路径；礼堂上菜不是无限创造。水咒不能被误写成任意营养餐制造术。",
+    "continuity": "official-reference",
+    "confidence": "reference-confirmed",
+    "reveal_arc_id": "ARC_01",
+    "knowledge_policy": "阶段仅用于默认介绍；提前知道须有已记录来源，不能泄露未来事件",
+    "source_locator_note": "短引文用于来源定位，不逐句证明整条概括；结合原页面小节核对"
+  },
+  {
+    "id": "RULE_DEATH",
+    "name": "魔法不是通用复活术",
+    "source_ids": [
+      "SRC_WORLD_LAW"
+    ],
+    "source_unit_ids": [
+      "SRC_WORLD_LAW_UNIT"
+    ],
+    "canon_summary": "死亡无法由普通咒语逆转。",
+    "card_adaptation": "治疗、稳定伤势和恢复生命不混写。早期只说明这条底线，不泄露魂器、石头或幕后计划。",
+    "continuity": "official-reference",
+    "confidence": "reference-confirmed",
+    "reveal_arc_id": "ARC_01",
+    "knowledge_policy": "阶段仅用于默认介绍；提前知道须有已记录来源，不能泄露未来事件",
+    "source_locator_note": "短引文用于来源定位，不逐句证明整条概括；结合原页面小节核对"
+  },
+  {
+    "id": "RULE_ANIMAGUS",
+    "name": "阿尼马格斯不是一个随口学会的咒语",
+    "source_ids": [
+      "SRC_WORLD_LAW"
+    ],
+    "source_unit_ids": [
+      "SRC_WORLD_LAW_UNIT"
+    ],
+    "canon_summary": "变形能力需艰难训练，并有登记要求。",
+    "card_adaptation": "作为独立能力管理，不加入已学咒语数组；不得靠课堂上听到名称瞬间掌握。",
+    "continuity": "official-reference",
+    "confidence": "reference-confirmed",
+    "reveal_arc_id": "ARC_03",
+    "knowledge_policy": "阶段仅用于默认介绍；提前知道须有已记录来源，不能泄露未来事件",
+    "source_locator_note": "短引文用于来源定位，不逐句证明整条概括；结合原页面小节核对"
+  },
+  {
+    "id": "RULE_DARK_LAW",
+    "name": "不可饶恕咒的法律边界",
+    "source_ids": [
+      "SRC_WORLD_LAW"
+    ],
+    "source_unit_ids": [
+      "SRC_WORLD_LAW_UNIT"
+    ],
+    "canon_summary": "三种不可饶恕咒针对人的使用有极严重法律后果。",
+    "card_adaptation": "按故事阶段认识，不在新生课堂自动传授；娘化不消除反派责任，危险描写仍保持SFW。",
+    "continuity": "official-reference",
+    "confidence": "reference-confirmed",
+    "reveal_arc_id": "ARC_04",
+    "knowledge_policy": "阶段仅用于默认介绍；提前知道须有已记录来源，不能泄露未来事件",
+    "source_locator_note": "短引文用于来源定位，不逐句证明整条概括；结合原页面小节核对"
+  },
+  {
+    "id": "RULE_TECH",
+    "name": "巫师生活不能照搬现代手机社会",
+    "source_ids": [
+      "SRC_WORLD_TECH"
+    ],
+    "source_unit_ids": [
+      "SRC_WORLD_TECH_UNIT"
+    ],
+    "canon_summary": "巫师以魔法通讯代替许多麻瓜设备，也会改造车辆和收音机。",
+    "card_adaptation": "本卡1991年使用信件、报纸和合适的魔法通讯。登记HTML是玩家界面，不是学生真的携带手机；不将文化偏好夸成所有科技绝对失灵。",
+    "continuity": "official-reference",
+    "confidence": "reference-confirmed",
+    "reveal_arc_id": "ARC_01",
+    "knowledge_policy": "阶段仅用于默认介绍；提前知道须有已记录来源，不能泄露未来事件",
+    "source_locator_note": "短引文用于来源定位，不逐句证明整条概括；结合原页面小节核对"
+  },
+  {
+    "id": "RULE_FLOO",
+    "name": "壁炉不等于任意传送门",
+    "source_ids": [
+      "SRC_WORLD_FLOO"
+    ],
+    "source_unit_ids": [
+      "SRC_WORLD_FLOO_UNIT"
+    ],
+    "canon_summary": "飞路连接受魔法部管理；霍格沃茨壁炉通常没有普通接入。",
+    "card_adaptation": "出行先检查连接状态、燃料、目的地和许可；一年级不能在寝室随手开网回家。临时接入须有剧情依据。",
+    "continuity": "official-reference",
+    "confidence": "reference-confirmed",
+    "reveal_arc_id": "ARC_01",
+    "knowledge_policy": "阶段仅用于默认介绍；提前知道须有已记录来源，不能泄露未来事件",
+    "source_locator_note": "短引文用于来源定位，不逐句证明整条概括；结合原页面小节核对"
+  },
+  {
+    "id": "RULE_SHIELD",
+    "name": "防护不等于无敌",
+    "source_ids": [
+      "SRC_WORLD_SHIELD"
+    ],
+    "source_unit_ids": [
+      "SRC_WORLD_SHIELD_UNIT"
+    ],
+    "canon_summary": "铁甲咒抵御某些咒语；范围防护有其他变体。",
+    "card_adaptation": "已学Protego不能自动解锁Protego Totalum，也不保证挡住所有攻击；不把游戏颜色克制当小说通用物理规律。",
+    "continuity": "official-reference",
+    "confidence": "reference-confirmed",
+    "reveal_arc_id": "ARC_01",
+    "knowledge_policy": "阶段仅用于默认介绍；提前知道须有已记录来源，不能泄露未来事件",
+    "source_locator_note": "短引文用于来源定位，不逐句证明整条概括；结合原页面小节核对"
+  }
+]

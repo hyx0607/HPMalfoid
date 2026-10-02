@@ -1,0 +1,15 @@
+{
+  "status": "partial-research-checkpoint",
+  "schema_version": 1,
+  "files": {
+    "data/spells.json": "2fbae248af2ee8a926e9ab28ea2890eb932a4a32c0bfba06d6822289f810fa0d",
+    "data/spells.jsonl": "13d61e6e883e18cc352f4aadbb4787f130175951b1f86b0b8c37fa0c566e5c78",
+    "data/world-rules.json": "5c0a5ee5f9f40d633fd099dafc2694c799636d4042dc3cc31532ac42993b645f",
+    "data/daily-event-seeds.json": "7aa0a1b83bf6f14aebb5b49ec3d55c587e08458a615c654bcb55e21ad868acd0",
+    "data/sources.json": "b99413ee1725cbb143e90ef5cdc6419fe84b648cdf077f65e4e69a9aa3102625",
+    "docs/world-rules.md": "ed83e393301950d09d7991c7cf2acf41740f1c158343b18ae4494597ee1a5c33",
+    "docs/magic-catalog.md": "cbd3c0d5c81a90505818d871e6ca5f1879ebaa0d4bcc3c588e30876b037656d5"
+  },
+  "runtime_dependency": "not-connected",
+  "privacy": "no player saves, reference cards, local config, or credentials"
+}
