@@ -8,9 +8,14 @@
     "data/daily-event-seeds.json": "35a7139a596987050734c0c86c6a56dbb7a6b579c3f568c89d23a03f9892a82e",
     "data/sources.json": "11e4dc62570f520e6a507452148608932f4d67192408a5ac0c0b6382bc502b4a",
     "docs/world-rules.md": "21b67ebaa8c11694a5b18eb63a8277950d0109cafa8f2f1cfd11ae67136d7f48",
-    "docs/magic-catalog.md": "0e343bde3e086b76bd8049da299f71e1179c4a4338ae76da92bac3a8217b0f62"
+    "docs/magic-catalog.md": "0e343bde3e086b76bd8049da299f71e1179c4a4338ae76da92bac3a8217b0f62",
+    "runtime/engine.mjs": "460291ce03aad4008d5865077720e7825e8563df215784861831c404e862aad7",
+    "runtime/hpm-runtime.mjs": "d5a0249343ba51854aba4b15b6a507ab8eac5b83a2055287c006690ad3899810",
+    "runtime/registry.mjs": "aafbb3dafdb432cf5d3cb3cc8d5d271c78b84d64b493af0cd3aeba1eeda7861a"
   },
   "runtime_dependency": "not-connected",
   "privacy": "no player saves, reference cards, local config, or credentials",
-  "hash_basis": "Git repository blob bytes (LF); not Windows working-copy CRLF"
+  "hash_basis": "Git repository blob bytes (LF); not Windows working-copy CRLF",
+  "runtime_version": "0.3.0",
+  "runtime_note": "Original HPM runtime; requires pinned upstream MVU and Tavern Helper. Real-host execution not yet accepted."
 }
